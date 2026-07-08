@@ -3,7 +3,7 @@ Daily DSA practice and LeetCode solutions in C++, organized by topic.
 
 # 📚 LeetCode Solutions
 
-My solutions to LeetCode problems as part of my daily DSA practice, organized by topic and difficulty. Written in Python.
+My solutions to LeetCode problems as part of my daily DSA practice, organized by topic and difficulty. Written in C++.
 
 ## 📂 Structure
 Solutions are organized by topic:
