@@ -80,3 +80,23 @@ Solutions are organized by topic:
 
 ## 🚀 About
 I'm a student learning AI/ML, and solving DSA problems consistently to strengthen my problem-solving fundamentals. New solutions added regularly!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+<!---LeetCode Topics End-->
