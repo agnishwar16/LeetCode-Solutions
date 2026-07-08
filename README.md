@@ -27,4 +27,12 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
