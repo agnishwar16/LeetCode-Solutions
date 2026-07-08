@@ -31,6 +31,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | ------- |
 | [0070-climbing-stairs](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
