@@ -61,9 +61,18 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [2487-remove-nodes-from-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
