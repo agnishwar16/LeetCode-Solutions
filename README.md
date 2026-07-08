@@ -78,4 +78,8 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
