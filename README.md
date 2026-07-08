@@ -44,6 +44,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0203-remove-linked-list-elements](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +57,13 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
