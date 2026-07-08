@@ -15,6 +15,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -23,6 +24,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -30,12 +32,14 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
