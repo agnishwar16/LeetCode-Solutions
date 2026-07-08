@@ -43,6 +43,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0019-remove-nth-node-from-end-of-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -53,17 +54,20 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0019-remove-nth-node-from-end-of-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [2487-remove-nodes-from-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
