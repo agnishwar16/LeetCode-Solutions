@@ -57,6 +57,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0509-fibonacci-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -83,4 +84,13 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | ------- |
 | [0007-reverse-integer](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
