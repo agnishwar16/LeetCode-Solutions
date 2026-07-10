@@ -26,6 +26,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0226-invert-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0226-invert-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -66,6 +68,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0226-invert-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Array
 |  |
 | ------- |
@@ -159,4 +162,12 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
