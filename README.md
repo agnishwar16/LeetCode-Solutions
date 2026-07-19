@@ -94,6 +94,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
@@ -197,4 +198,8 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
