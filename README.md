@@ -132,6 +132,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0019-remove-nth-node-from-end-of-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -193,6 +194,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
