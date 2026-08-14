@@ -102,6 +102,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -112,6 +113,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -198,6 +200,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -216,6 +219,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
