@@ -106,6 +106,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -115,6 +116,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0001-two-sum](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -211,6 +213,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## String Matching
@@ -225,6 +228,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -240,8 +244,13 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0136-single-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
