@@ -110,6 +110,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0217-contains-duplicate](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1480-running-sum-of-1d-array](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,4 +254,8 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
