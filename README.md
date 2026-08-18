@@ -108,6 +108,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0136-single-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -122,6 +123,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0205-isomorphic-strings](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -186,6 +188,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0007-reverse-integer](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -235,10 +238,12 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0169-majority-element](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Backtracking
 |  |
@@ -253,6 +258,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0136-single-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
