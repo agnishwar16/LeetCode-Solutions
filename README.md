@@ -109,6 +109,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0169-majority-element](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -124,6 +125,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0217-contains-duplicate](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -148,6 +150,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0086-partition-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0349-intersection-of-two-arrays](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -239,11 +242,13 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0217-contains-duplicate](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Backtracking
 |  |
