@@ -102,6 +102,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -146,6 +147,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -164,6 +166,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -174,6 +177,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [2487-remove-nodes-from-linked-list](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
@@ -198,6 +202,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
