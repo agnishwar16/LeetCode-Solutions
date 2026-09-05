@@ -112,6 +112,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0238-product-of-array-except-self](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -129,6 +130,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0268-missing-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
@@ -278,6 +280,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Minimax
 |  |
