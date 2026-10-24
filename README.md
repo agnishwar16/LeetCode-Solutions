@@ -208,6 +208,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0509-fibonacci-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [2409-count-days-spent-together](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -236,6 +237,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0242-valid-anagram](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [2409-count-days-spent-together](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 ## Counting
 |  |
 | ------- |
