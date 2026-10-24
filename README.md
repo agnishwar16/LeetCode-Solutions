@@ -119,6 +119,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0560-subarray-sum-equals-k](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0766-toeplitz-matrix](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -311,6 +312,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
