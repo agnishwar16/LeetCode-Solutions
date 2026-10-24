@@ -107,6 +107,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0042-trapping-rain-water](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -275,6 +276,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 ## Divide and Conquer
 |  |
@@ -285,6 +287,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Boyer–Moore Majority Vote Algorithm
