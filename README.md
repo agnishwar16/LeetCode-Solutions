@@ -104,6 +104,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 | [0001-two-sum](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0039-combination-sum](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -276,6 +277,7 @@ I'm a student learning AI/ML, and solving DSA problems consistently to strengthe
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/agnishwar16/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 ## Divide and Conquer
